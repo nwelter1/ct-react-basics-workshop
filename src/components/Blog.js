@@ -1,5 +1,4 @@
-export default function Blog(props) {
-    const post = props.post;
+export default function Blog({ post }) {
     // return(
     //     <div>
     //         {props.posts.map(post =>{
